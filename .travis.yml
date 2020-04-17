@@ -14,7 +14,7 @@ install:
 
 # Run the unit test
 script:
-  - python -m pytest --cov=oanda_bot tests/
+  - python -m pytest --cov=discordwebhook tests/
 
 # Push the results back to codecov
 after_success:
