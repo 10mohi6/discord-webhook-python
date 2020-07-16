@@ -5,6 +5,7 @@
 [![codecov](https://codecov.io/gh/10mohi6/discord-webhook-python/branch/master/graph/badge.svg)](https://codecov.io/gh/10mohi6/discord-webhook-python)
 [![Build Status](https://travis-ci.com/10mohi6/discord-webhook-python.svg?branch=master)](https://travis-ci.com/10mohi6/discord-webhook-python)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/discordwebhook)](https://pypi.org/project/discordwebhook/)
+[![Downloads](https://pepy.tech/badge/discordwebhook)](https://pepy.tech/project/discordwebhook)
 
 discordwebhook is a python library for discord webhook with discord rest api on Python 3.6 and above.
 

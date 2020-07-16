@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="discordwebhook",
-    version="0.1.0",
+    version="1.0.0",
     description="discordwebhlok is a python library \
         for discord webhook with discord rest api on Python 3.6 and above.",
     long_description=open("README.md").read(),
