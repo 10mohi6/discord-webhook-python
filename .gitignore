@@ -8,3 +8,4 @@ dist/
 build/
 .vscode/
 .mypy_cache/
+.devcontainer/
